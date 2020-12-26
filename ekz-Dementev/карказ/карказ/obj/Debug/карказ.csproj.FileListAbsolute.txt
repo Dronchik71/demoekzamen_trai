@@ -1,0 +1,17 @@
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.csprojAssemblyReference.cache
+C:\ekz-Dementev\карказ\карказ\obj\Debug\MainWindow.g.cs
+C:\ekz-Dementev\карказ\карказ\obj\Debug\Page1.g.cs
+C:\ekz-Dementev\карказ\карказ\obj\Debug\App.g.cs
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ_MarkupCompile.cache
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ_MarkupCompile.lref
+C:\ekz-Dementev\карказ\карказ\bin\Debug\карказ.exe.config
+C:\ekz-Dementev\карказ\карказ\bin\Debug\карказ.exe
+C:\ekz-Dementev\карказ\карказ\bin\Debug\карказ.pdb
+C:\ekz-Dementev\карказ\карказ\obj\Debug\MainWindow.baml
+C:\ekz-Dementev\карказ\карказ\obj\Debug\Page1.baml
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.g.resources
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.Properties.Resources.resources
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.csproj.GenerateResource.cache
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.csproj.CoreCompileInputs.cache
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.exe
+C:\ekz-Dementev\карказ\карказ\obj\Debug\карказ.pdb
